@@ -1,0 +1,1 @@
+Le projet Menu Maker by Qwenta est une application permettant à ces utilisateurs de créer des menus de restaurants facilement.
